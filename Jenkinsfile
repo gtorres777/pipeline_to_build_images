@@ -1,6 +1,6 @@
 pipeline { 
     environment { 
-        registry = "gtd777/testbuild" 
+        registry = "gtd777/testclient2-odoo15" 
         registryCredential = 'dockerhubtestid' 
         dockerImage = '' 
     }
